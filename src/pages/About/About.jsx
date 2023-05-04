@@ -21,7 +21,7 @@ const About = () => {
                         <div className="flex-col lg:flex-row flex items-center gap-4 lg:gap-16 mt-8 lg:mt-16">
                             <div>
                                 <img
-                                    src="https://i.ibb.co/g7wLkjm/Whats-App-Image-2023-05-04-at-11-03-11-PM.jpg"
+                                    src="https://i.ibb.co/9Vz6BQ1/Whats-App-Image-2023-05-05-at-12-04-52-AM.jpg"
                                     alt="profile-v2"
                                     border="0"
                                     className="h-[150px] w-[150px] rounded-full bg-cover bg-orange-300 border-2 border-indigo"

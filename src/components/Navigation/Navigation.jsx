@@ -40,7 +40,7 @@ const Navigation = () => {
                 <div className="flex items-center justify-center flex-col">
                     <div className="flex items-center justify-center overflow-hidden">
                         <img
-                            src="https://i.ibb.co/g7wLkjm/Whats-App-Image-2023-05-04-at-11-03-11-PM.jpg"
+                            src="https://i.ibb.co/9Vz6BQ1/Whats-App-Image-2023-05-05-at-12-04-52-AM.jpg"
                             alt="profile-v1"
                             border="0"
                             className="w-[80px] h-[80px] object-cover rounded-full border border-white bg-yellow-500"
