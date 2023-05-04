@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/npsonawane/static/css/main.4e859bd0.css",
+    "main.js": "/npsonawane/static/js/main.2dbadd9f.js",
+    "static/js/787.1f373b0c.chunk.js": "/npsonawane/static/js/787.1f373b0c.chunk.js",
+    "index.html": "/npsonawane/index.html",
+    "main.4e859bd0.css.map": "/npsonawane/static/css/main.4e859bd0.css.map",
+    "main.2dbadd9f.js.map": "/npsonawane/static/js/main.2dbadd9f.js.map",
+    "787.1f373b0c.chunk.js.map": "/npsonawane/static/js/787.1f373b0c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e859bd0.css",
+    "static/js/main.2dbadd9f.js"
+  ]
+}
